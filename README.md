@@ -1,6 +1,7 @@
-#  San Francisco  & Monaco fonts with cyrilic support 
+# Favorite Fonts
 
-My favorite fonts for ubuntu!
+San Francisco & Monaco fonts are my favorite fonts for ubuntu system and terminal 
+All of these fonts support cyrillic
 
 ## How to install?
 
